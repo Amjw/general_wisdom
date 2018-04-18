@@ -1,7 +1,6 @@
-# general_wisdom
-通用智慧存在吗？是什么？
+# minority game in 50 lines
 
-## 基于MG:
+## 关于[minority game](https://en.wikipedia.org/wiki/El_Farol_Bar_problem#Minority_game) in 50 lines
 
 N个主体进行静态演化博弈，每个主体被随机赋予s个策略。
 在每个周期，每个主体根据最近m个历史获胜信息，选择自身最佳策略，做出选择：
